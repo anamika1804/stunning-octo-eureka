@@ -2,4 +2,6 @@
 This project is developed using Supervised and unsupervised machine learning algorithms to predict crime report of different places, this project considered sanfransisco dataset from Kaggle
 
 
-![image](https://github.com/anamika1804/stunning-octo-eureka/assets/78145334/fa9bdeb5-e89d-4d43-853e-f337f01b9f0a)
+
+
+![Screenshot 2023-08-18 000642](https://github.com/anamika1804/stunning-octo-eureka/assets/78145334/67df2260-561c-4ed4-b0d2-d250fcb32d0c)
